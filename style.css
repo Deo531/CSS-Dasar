@@ -1,6 +1,6 @@
 body {
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-background-color: aliceblue
+background-color: blue
 }
 h1{
     color: black;
@@ -33,4 +33,5 @@ p{
 #huruf-besar{
     text-transform: uppercase;
     border: 2px solid;
+
 }
